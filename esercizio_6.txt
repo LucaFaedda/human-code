@@ -1,0 +1,15 @@
+
+
+PROBLEMA: ORDINARE UNA PIZZA
+
+Prendere il listino pizze
+    Controllo il listino
+    SE c'è una pizza che mi piace
+
+    ALTRIMENTI prendo la solita (prosciutto e funghi)
+Arriva la pizza
+   SE riesco a finirla bene
+
+   ALTRIMENTI La metto in frigo
+
+FINE
