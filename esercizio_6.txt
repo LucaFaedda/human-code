@@ -1,14 +1,20 @@
 
 
 PROBLEMA: prendere una pizza
+
 INIZIO
-prendere listino pizze
-    controllo se c'è la mia pizza
-        cerco una pizza che mi piaccia
-        altrimenti se c'è la pizza "prosciutto e funghi" prendila
-    la pizza arriva
-    pago il fattorino e lo saluto
-    riesco a finire la pizza
-        si era buona 
-        no la metto in frigo
+prendo il listino pizze
+decido da dove ordinare
+    SE chiamare
+    ALTRIMENTI da interent
+controllo se c'è qualcosa che mi piaccia
+    SE trovo qualcosa che mi intriga la prendo
+    ALTRIMENTI se c'è la pizza "prosciutto e funghi" prendila
+la pizza arriva
+pago il fattorino
+    SE ha il pos con bancomat
+    ALTRIMENTI con contante
+riesco a finire la pizza
+    si  
+    no la metto in frigo
 FINE
